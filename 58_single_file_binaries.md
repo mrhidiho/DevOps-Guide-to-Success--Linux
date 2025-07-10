@@ -1,5 +1,4 @@
 
-```
 # Chapter 58 – PyInstaller & PEX: Shipping Single-File Binaries
 
 Distributing Python + Bash hybrids across jump-boxes can be painful when
