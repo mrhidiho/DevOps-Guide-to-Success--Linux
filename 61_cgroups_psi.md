@@ -1,5 +1,4 @@
 
-```
 # Chapter 61 – cgroups v2 & Pressure-Stall Information (PSI)
 
 When a firmware rollout script stalls, is it CPU contention, I/O backlog, or
