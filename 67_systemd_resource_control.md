@@ -1,5 +1,4 @@
 
-```
 # Chapter 67 – systemd Resource-Control for Run-Time Guardrails
 
 `systemd` isn’t just a service manager—it’s a front-end to cgroups v2.  
