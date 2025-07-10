@@ -1,7 +1,7 @@
 
 # Chapter84  OpenTelemetry  Prometheus Adaptive SLOs with Reinforcement Learning
 
-Static alert thresholds (`cpu > 80%`) cause either alert fatigue or blind
+Static alert thresholds (cpu > 80%) cause either alert fatigue or blind
 spots. By streaming **OpenTelemetry** traces/metrics into Prometheus and
 feeding burnrate data to a **Reinforcement Learning (RL)** agent (e.g.,
 RayRLlib), we can tune SLO alert windows dynamicallyreducing false positives
