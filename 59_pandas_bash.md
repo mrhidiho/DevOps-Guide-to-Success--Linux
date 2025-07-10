@@ -1,5 +1,5 @@
 
-```
+
 # Chapter 59 – pandas + Bash for Large CSV & Log Crunching
 
 `awk` and `sort -k` get you far, but once daily ISP logs hit hundreds of
