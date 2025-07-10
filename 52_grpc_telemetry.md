@@ -1,7 +1,3 @@
-
-### **52_grpc_telemetry.md**
-
-```
 # Chapter 52 – gRPC Telemetry Streaming & Time-Series Normalization
 
 SNMP polling every 60 s can miss microbursts and adds CPU load to edge gear.  
