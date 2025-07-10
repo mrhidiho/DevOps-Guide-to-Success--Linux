@@ -1,422 +1,83 @@
 # Glossary
 
-- **+ Prometheus** – referenced 1 time(s).
-- **--bind-ro** – referenced 1 time(s).
-- **--clean** – referenced 1 time(s).
-- **--inplace** – referenced 1 time(s).
-- **--map-root-user** – referenced 1 time(s).
-- **--runtime** – referenced 1 time(s).
-- **--socket-mem** – referenced 1 time(s).
-- **--strip** – referenced 1 time(s).
-- **--user** – referenced 1 time(s).
-- **--version** – referenced 1 time(s).
-- **--version-file** – referenced 1 time(s).
-- **-c** – referenced 1 time(s).
-- **/docs/** – referenced 1 time(s).
-- **/interfaces/interface/state/counters** – referenced 1 time(s).
-- **/nvme/rootfs** – referenced 1 time(s).
-- **/proc/stat** – referenced 1 time(s).
-- **/router/** – referenced 1 time(s).
-- **/srv/http/ipxe/** – referenced 1 time(s).
-- **/sys/fs/cgroup** – referenced 1 time(s).
-- **/tmp/hostfile** – referenced 1 time(s).
-- **0-15** – referenced 1 time(s).
-- **0s** – referenced 1 time(s).
-- **12** – referenced 1 time(s).
-- **12M** – referenced 1 time(s).
-- **165W** – referenced 1 time(s).
-- **17** – referenced 1 time(s).
-- **180s  25s** – referenced 1 time(s).
-- **192** – referenced 1 time(s).
-- **2 Code Owners** – referenced 1 time(s).
-- **210** – referenced 1 time(s).
-- **22** – referenced 1 time(s).
-- **275k** – referenced 1 time(s).
-- **42** – referenced 1 time(s).
-- **48** – referenced 1 time(s).
-- **5000 routers** – referenced 1 time(s).
-- **7min 40s** – referenced 1 time(s).
-- **85M** – referenced 1 time(s).
-- **85Mpps** – referenced 1 time(s).
-- **8s** – referenced 1 time(s).
-- **965 s** – referenced 1 time(s).
-- **Abort** – referenced 1 time(s).
-- **Actions** – referenced 1 time(s).
-- **Aim for** – referenced 1 time(s).
-- **Alert** – referenced 1 time(s).
-- **Alert if** – referenced 3 time(s).
-- **all** – referenced 2 time(s).
-- **always** – referenced 2 time(s).
-- **and** – referenced 4 time(s).
-- **and echoes hugepage** – referenced 1 time(s).
-- **and re-runs** – referenced 1 time(s).
-- **Annotation Opt-In** – referenced 1 time(s).
-- **Ansible** – referenced 2 time(s).
-- **any** – referenced 2 time(s).
-- **APEI** – referenced 1 time(s).
-- **Append** – referenced 1 time(s).
-- **Application** – referenced 1 time(s).
-- **Apply** – referenced 1 time(s).
-- **Apply fix** – referenced 1 time(s).
-- **arch_prctl** – referenced 1 time(s).
-- **ARK** – referenced 1 time(s).
-- **AutoNUMA** – referenced 2 time(s).
-- **Autopatch** – referenced 1 time(s).
-- **avg10** – referenced 1 time(s).
-- **Backend S3** – referenced 1 time(s).
-- **backward** – referenced 1 time(s).
-- **Bash uses** – referenced 1 time(s).
-- **Bashdriven pipeline** – referenced 1 time(s).
-- **batsexpect** – referenced 3 time(s).
-- **BBR v3** – referenced 2 time(s).
-- **BBR v3 + ECN** – referenced 1 time(s).
-- **before** – referenced 2 time(s).
-- **BGP FlowSpec** – referenced 1 time(s).
-- **blk-mq** – referenced 1 time(s).
-- **Boogie** – referenced 1 time(s).
-- **bpf_prog_terminate** – referenced 1 time(s).
-- **bpftrace** – referenced 2 time(s).
-- **Build** – referenced 1 time(s).
-- **built with** – referenced 1 time(s).
-- **Builtin** – referenced 1 time(s).
-- **Bulk pattern** – referenced 1 time(s).
-- **bulletproof Bash** – referenced 1 time(s).
-- **by reference** – referenced 1 time(s).
-- **CAKE** – referenced 1 time(s).
-- **calc_sha** – referenced 1 time(s).
-- **can** – referenced 1 time(s).
-- **canary modem** – referenced 1 time(s).
-- **CAP_SYS_ADMIN** – referenced 1 time(s).
-- **category** – referenced 1 time(s).
-- **CC** – referenced 1 time(s).
-- **central NVMe-over-TCP LUN** – referenced 1 time(s).
-- **cgroups v2** – referenced 1 time(s).
-- **chaos/** – referenced 1 time(s).
-- **chaos_active_total** – referenced 1 time(s).
-- **Chapter4  Text Processing DeepDive** – referenced 1 time(s).
-- **Chrony** – referenced 1 time(s).
-- **chunksize** – referenced 1 time(s).
-- **Cisco IOS-XR** – referenced 1 time(s).
-- **Click** – referenced 1 time(s).
-- **Commit logs to Git** – referenced 1 time(s).
-- **Compares** – referenced 1 time(s).
-- **Copy** – referenced 1 time(s).
-- **cosign** – referenced 1 time(s).
-- **counts** – referenced 1 time(s).
-- **coverage-bash --html** – referenced 1 time(s).
-- **cpu_seconds_total** – referenced 1 time(s).
-- **CPUWeight** – referenced 2 time(s).
-- **CQE** – referenced 1 time(s).
-- **Create** – referenced 2 time(s).
-- **create inventory** – referenced 1 time(s).
-- **csvkit** – referenced 1 time(s).
-- **ctypes** – referenced 1 time(s).
-- **cycles/TLB-miss** – referenced 1 time(s).
-- **cyclictest** – referenced 2 time(s).
-- **Default** – referenced 1 time(s).
-- **Delegation** – referenced 1 time(s).
-- **DHCP** – referenced 1 time(s).
-- **DHCP server** – referenced 1 time(s).
-- **Diff** – referenced 1 time(s).
-- **Diff vs golden** – referenced 1 time(s).
-- **Dilithium2** – referenced 1 time(s).
-- **Disable Scope** – referenced 1 time(s).
-- **DISCOVER** – referenced 1 time(s).
-- **Discovers** – referenced 1 time(s).
-- **dispatch** – referenced 1 time(s).
-- **dist/fwcli** – referenced 1 time(s).
-- **Distribute** – referenced 1 time(s).
-- **dnsmasq** – referenced 1 time(s).
-- **do_huge_pmd_anonymous_page** – referenced 1 time(s).
-- **DPDK** – referenced 1 time(s).
-- **dualpart A/B layout** – referenced 1 time(s).
-- **Dynamic thresholds** – referenced 1 time(s).
-- **eBPF** – referenced 1 time(s).
-- **echo CFS** – referenced 1 time(s).
-- **ECN++** – referenced 1 time(s).
-- **ed25519** – referenced 1 time(s).
-- **EDAC** – referenced 1 time(s).
-- **edge-vnf** – referenced 1 time(s).
-- **enqueue / dequeue** – referenced 1 time(s).
-- **enumerate** – referenced 1 time(s).
-- **EPB** – referenced 1 time(s).
-- **ethtool** – referenced 1 time(s).
-- **every default gateway** – referenced 1 time(s).
-- **every release** – referenced 1 time(s).
-- **ExaBGP** – referenced 1 time(s).
-- **Expect** – referenced 1 time(s).
-- **External** – referenced 1 time(s).
-- **Extract** – referenced 1 time(s).
-- **Extract running-config** – referenced 1 time(s).
-- **feather** – referenced 1 time(s).
-- **fix** – referenced 1 time(s).
-- **Flag** – referenced 1 time(s).
-- **flent rrul** – referenced 1 time(s).
-- **for ps** – referenced 1 time(s).
-- **for User-Space Control** – referenced 1 time(s).
-- **forkstat** – referenced 1 time(s).
-- **FQ_CoDel** – referenced 1 time(s).
-- **Fulcio** – referenced 1 time(s).
-- **full** – referenced 1 time(s).
-- **GB/s** – referenced 1 time(s).
-- **GDB skas** – referenced 1 time(s).
-- **git filter-repo** – referenced 1 time(s).
-- **git revert -m1 rollout-2025-07-10** – referenced 1 time(s).
-- **gives** – referenced 1 time(s).
-- **gnmic** – referenced 1 time(s).
-- **gnmic output processors** – referenced 1 time(s).
-- **GPUDirectRDMA** – referenced 1 time(s).
-- **green** – referenced 1 time(s).
-- **grep thp_** – referenced 1 time(s).
-- **gRPC dial-out telemetry** – referenced 1 time(s).
-- **hybrid X25519+ Kyber768** – referenced 1 time(s).
-- **Hybrid X25519+Kyber768** – referenced 1 time(s).
-- **hyperfine** – referenced 1 time(s).
-- **I/O Scheduler** – referenced 1 time(s).
-- **idempotent** – referenced 1 time(s).
-- **ifb0** – referenced 1 time(s).
-- **ifSpeed** – referenced 1 time(s).
-- **IMA** – referenced 2 time(s).
-- **import** – referenced 1 time(s).
-- **inkernel TLS offload** – referenced 1 time(s).
-- **Invoke** – referenced 1 time(s).
-- **io_uring** – referenced 1 time(s).
-- **io_uring/zoned append** – referenced 1 time(s).
-- **ioping** – referenced 1 time(s).
-- **IOPS** – referenced 1 time(s).
-- **IORING_SETUP_SQPOLL** – referenced 1 time(s).
-- **IOWeight** – referenced 1 time(s).
-- **IPAccounting** – referenced 1 time(s).
-- **iperf3** – referenced 1 time(s).
-- **IPIngressMaxBytesPerSec** – referenced 1 time(s).
-- **iPXE** – referenced 1 time(s).
-- **iPXE HTTP + NVMe-TCP** – referenced 1 time(s).
-- **iPXE SAN hook** – referenced 1 time(s).
-- **ISSU** – referenced 1 time(s).
-- **Juniper MX** – referenced 1 time(s).
-- **katacontainers** – referenced 1 time(s).
-- **Kernel** – referenced 1 time(s).
-- **kernel_A + rootfs_A** – referenced 1 time(s).
-- **kernel_B + rootfs_B** – referenced 1 time(s).
-- **kexec** – referenced 1 time(s).
-- **KFENCE** – referenced 2 time(s).
-- **Kickstart/Preseed** – referenced 1 time(s).
-- **killall rsync** – referenced 1 time(s).
-- **killswitch file** – referenced 1 time(s).
-- **KPatch** – referenced 1 time(s).
-- **kyber** – referenced 1 time(s).
-- **L1D cache flush** – referenced 1 time(s).
-- **label on** – referenced 1 time(s).
-- **Latency Cost** – referenced 1 time(s).
-- **LATENCY HISTOGRAMS** – referenced 1 time(s).
-- **liboqs** – referenced 1 time(s).
-- **liburing** – referenced 1 time(s).
-- **Livepatching** – referenced 1 time(s).
-- **Load** – referenced 1 time(s).
-- **Local vs remote** – referenced 1 time(s).
-- **Lynis** – referenced 1 time(s).
-- **MAD** – referenced 1 time(s).
-- **MADV_COLLAPSE** – referenced 1 time(s).
-- **madvise** – referenced 2 time(s).
-- **main** – referenced 3 time(s).
-- **mapfile** – referenced 1 time(s).
-- **Meaning** – referenced 2 time(s).
-- **Measured Boot** – referenced 1 time(s).
-- **membind 0 + cpus 0** – referenced 1 time(s).
-- **MemoryHigh** – referenced 2 time(s).
-- **Method** – referenced 2 time(s).
-- **migratepages** – referenced 1 time(s).
-- **Miller** – referenced 2 time(s).
-- **minicom** – referenced 1 time(s).
-- **Mitigation** – referenced 1 time(s).
-- **monorepo** – referenced 1 time(s).
-- **Monorepo** – referenced 2 time(s).
-- **mq-deadline** – referenced 1 time(s).
-- **multi-repo** – referenced 1 time(s).
-- **Multi-repo** – referenced 1 time(s).
-- **Multipath TCP** – referenced 1 time(s).
-- **nameref** – referenced 1 time(s).
-- **Netmiko** – referenced 1 time(s).
-- **Never** – referenced 1 time(s).
-- **never** – referenced 2 time(s).
-- **ngrok** – referenced 1 time(s).
-- **no** – referenced 1 time(s).
-- **No kernel headers** – referenced 1 time(s).
-- **No package cache** – referenced 1 time(s).
-- **Node** – referenced 1 time(s).
-- **Node Exporter exposes** – referenced 1 time(s).
-- **none** – referenced 2 time(s).
-- **nonpeak windows** – referenced 1 time(s).
-- **Nornir** – referenced 1 time(s).
-- **not sufficient** – referenced 1 time(s).
-- **Now** – referenced 1 time(s).
-- **nvme zns reset-zone** – referenced 1 time(s).
-- **nvmetcli** – referenced 1 time(s).
-- **NVMeTCP** – referenced 1 time(s).
-- **nvmetcp + kTLS** – referenced 1 time(s).
-- **NVMeTCP + kTLS** – referenced 1 time(s).
-- **OCI containers** – referenced 1 time(s).
-- **on** – referenced 1 time(s).
-- **one** – referenced 1 time(s).
-- **One-Liner** – referenced 1 time(s).
-- **oneliners and multistep pipelines** – referenced 1 time(s).
-- **only** – referenced 4 time(s).
-- **OpenSCAP** – referenced 1 time(s).
-- **OpenTelemetry** – referenced 1 time(s).
-- **Option43** – referenced 1 time(s).
-- **P4Runtime/gNMI** – referenced 1 time(s).
-- **pandas-cli** – referenced 1 time(s).
-- **parameter expansion** – referenced 1 time(s).
-- **Paramiko** – referenced 1 time(s).
-- **partial** – referenced 1 time(s).
-- **passwordonly** – referenced 1 time(s).
-- **PCR measurement** – referenced 1 time(s).
-- **pdpipe** – referenced 1 time(s).
-- **per-task** – referenced 1 time(s).
-- **perf c2c** – referenced 1 time(s).
-- **perf mem** – referenced 1 time(s).
-- **perf stat** – referenced 2 time(s).
-- **Persist in** – referenced 1 time(s).
-- **petl** – referenced 2 time(s).
-- **PEX** – referenced 1 time(s).
-- **PEX_ROOT** – referenced 1 time(s).
-- **pexpect** – referenced 4 time(s).
-- **PhysicalMachineChaos** – referenced 1 time(s).
-- **ping** – referenced 1 time(s).
-- **pivot_root** – referenced 1 time(s).
-- **PolicyController** – referenced 1 time(s).
-- **port ranges** – referenced 1 time(s).
-- **PREEMPT_RT** – referenced 1 time(s).
-- **PREEMPT_RT + noflush** – referenced 1 time(s).
-- **PropertiesChanged** – referenced 1 time(s).
-- **PSI** – referenced 1 time(s).
-- **PSI cpu avg10** – referenced 1 time(s).
-- **PSI io avg10** – referenced 1 time(s).
-- **psi_io_some_avg10** – referenced 1 time(s).
-- **Pull runningconfig** – referenced 1 time(s).
-- **Purpose** – referenced 1 time(s).
-- **pushdelete** – referenced 1 time(s).
-- **pushes** – referenced 1 time(s).
-- **PXE** – referenced 1 time(s).
-- **PyInstaller** – referenced 1 time(s).
-- **pytest** – referenced 1 time(s).
-- **pytest-bash** – referenced 2 time(s).
-- **pytest-coverage** – referenced 1 time(s).
-- **QD** – referenced 1 time(s).
-- **qgroups** – referenced 1 time(s).
-- **quoted individually** – referenced 1 time(s).
-- **random-early-ecn** – referenced 1 time(s).
-- **rasdaemon** – referenced 1 time(s).
-- **reads** – referenced 1 time(s).
-- **Redirect to** – referenced 1 time(s).
-- **Rekor** – referenced 1 time(s).
-- **remediate** – referenced 1 time(s).
-- **report** – referenced 1 time(s).
-- **Reports** – referenced 1 time(s).
-- **require** – referenced 1 time(s).
-- **Reserved** – referenced 1 time(s).
-- **Reset Cost** – referenced 1 time(s).
-- **Retrans** – referenced 1 time(s).
-- **rm -rf /** – referenced 1 time(s).
-- **Rollback** – referenced 2 time(s).
-- **rollout-** – referenced 1 time(s).
-- **ROM** – referenced 1 time(s).
-- **root on the host** – referenced 1 time(s).
-- **Rootless** – referenced 1 time(s).
-- **rsync** – referenced 2 time(s).
-- **rsync --whole-file --inplace** – referenced 1 time(s).
-- **rsyncd** – referenced 1 time(s).
-- **Run** – referenced 1 time(s).
-- **run-queue** – referenced 1 time(s).
-- **Runtime** – referenced 1 time(s).
-- **SC2034** – referenced 1 time(s).
-- **SC2046** – referenced 1 time(s).
-- **SC2086** – referenced 1 time(s).
-- **SC2164** – referenced 1 time(s).
-- **scan** – referenced 1 time(s).
-- **Scan** – referenced 1 time(s).
-- **Scenario** – referenced 2 time(s).
-- **Scheduler** – referenced 1 time(s).
-- **scp** – referenced 1 time(s).
-- **screen** – referenced 1 time(s).
-- **SCX** – referenced 1 time(s).
-- **scx_latency** – referenced 2 time(s).
-- **scx_simple** – referenced 1 time(s).
-- **serial console** – referenced 1 time(s).
-- **setpriv --pdeathsig SIGKILL** – referenced 1 time(s).
-- **SEV** – referenced 1 time(s).
-- **SGID** – referenced 1 time(s).
-- **SID** – referenced 1 time(s).
-- **Sign** – referenced 1 time(s).
-- **Sigstore** – referenced 1 time(s).
-- **single word** – referenced 1 time(s).
-- **Small SUID helper** – referenced 1 time(s).
-- **Snapshot** – referenced 1 time(s).
-- **SNMPv3 USM** – referenced 1 time(s).
-- **some** – referenced 2 time(s).
-- **source of truth** – referenced 1 time(s).
-- **SQE** – referenced 1 time(s).
-- **SR-IOV** – referenced 1 time(s).
-- **SRH** – referenced 1 time(s).
-- **Stage** – referenced 1 time(s).
-- **staging** – referenced 2 time(s).
-- **stdin** – referenced 1 time(s).
-- **stdout** – referenced 1 time(s).
-- **Step** – referenced 1 time(s).
-- **Sticky** – referenced 1 time(s).
-- **strace -c** – referenced 1 time(s).
-- **stress-ng --vm** – referenced 1 time(s).
-- **StressChaos** – referenced 1 time(s).
-- **stressng** – referenced 1 time(s).
-- **structured configs** – referenced 1 time(s).
-- **submicrosecond time sync** – referenced 1 time(s).
-- **Submodules** – referenced 1 time(s).
-- **sudo** – referenced 1 time(s).
-- **SUID** – referenced 1 time(s).
-- **sysctl** – referenced 1 time(s).
-- **Sysctl** – referenced 1 time(s).
-- **systemctl** – referenced 1 time(s).
-- **systemctl set-property** – referenced 1 time(s).
-- **systemd --version** – referenced 1 time(s).
-- **systemd tooling** – referenced 1 time(s).
-- **systemd-run** – referenced 1 time(s).
-- **tc -s** – referenced 1 time(s).
-- **tc cake** – referenced 1 time(s).
-- **tc netem** – referenced 1 time(s).
-- **tcp_bbr3_rttprobe_bw_thresh** – referenced 1 time(s).
-- **TDX** – referenced 1 time(s).
-- **Terraform** – referenced 1 time(s).
-- **testpmd** – referenced 1 time(s).
-- **tests/** – referenced 1 time(s).
-- **to profile firmware copy** – referenced 1 time(s).
-- **TPM Quote** – referenced 1 time(s).
-- **Trivy** – referenced 1 time(s).
-- **tunnel mpls traffic-eng** – referenced 1 time(s).
-- **two** – referenced 1 time(s).
-- **unauthorized** – referenced 1 time(s).
-- **under default slice vs** – referenced 1 time(s).
-- **Unified tree** – referenced 1 time(s).
-- **unset vars** – referenced 1 time(s).
-- **unshare --pid** – referenced 1 time(s).
-- **uring_copy** – referenced 4 time(s).
-- **Use** – referenced 1 time(s).
-- **validate** – referenced 1 time(s).
-- **Verify** – referenced 2 time(s).
-- **vfio-pci** – referenced 1 time(s).
-- **vmstat key** – referenced 1 time(s).
-- **Webhook Gate** – referenced 1 time(s).
-- **WireGuard** – referenced 1 time(s).
-- **WP** – referenced 1 time(s).
-- **Write Pointer** – referenced 1 time(s).
-- **Writes to eMMC** – referenced 1 time(s).
-- **y/n** – referenced 1 time(s).
-- **YubiHSM2** – referenced 1 time(s).
-- **Z3** – referenced 2 time(s).
-- **ZA** – referenced 1 time(s).
-- **zero manual CLI** – referenced 1 time(s).
-- **zgrep** – referenced 1 time(s).
-- **ZNS** – referenced 1 time(s).
-- **zone reset** – referenced 1 time(s).
-- **zone start LBA** – referenced 1 time(s).
-- **ZS** – referenced 1 time(s).
-- **zssh** – referenced 1 time(s).
+- **`CONFIG_PREEMPT_RT`** – **70–90**
+- **`kexec -e`** – **8s**
+- **Abort** – kubectl annotate podchaos kill-edge-vnf chaos-mesh.org/action=abort**.**
+- **always** – kernel tries to promote any anon 4 k page to 2 MiB
+- **Annotation Opt-In** – enforce chaos-mesh.org/chaos="true"** label on**
+- **Append** – use **io_uring/zoned append**, drive sets LBA
+- **Apply** – Flash in batches with health checks
+- **AutoNUMA** – Kernel daemon migrates hot pages to local node
+- **BBR v3** – **192**
+- **blk-mq** – Multi-queue block layer (kernel ≥3.13)
+- **BPF`lb_hash`** – **12M**
+- **Builtin** – `echo`, `printf`, `read`, `test`
+- **CC** – **Throughput (Mb/s)**
+- **cosign** – Sign / verify container images, files
+- **CQE** – Completion (user_data, result)
+- **Delegation** – unprivileged users can manage sub-trees without root
+- **dispatch** – Assign a task to CPU
+- **ed25519** – 256
+- **enqueue / dequeue** – Hooks called when task becomes runnable/blocked
+- **External** – `/bin/grep`, `/usr/bin/sed`
+- **Flag** – **Meaning**
+- **Fulcio** – Issues shortlived X.509 cert bound to OIDC identity
+- **full** – time the *entire* system stalled
+- **Google `repo`** – Declarative manifest; pin SHAs; built-in parallel sync
+- **H.Encap** – Insert SRH between outer & inner IPv6
+- **Hybrid X25519+Kyber768** – **1.9**
+- **I/O Scheduler** – Reorder & merge requests (`none`, `mq-deadline`, `kyber`)
+- **iPXE HTTP + NVMe-TCP** – **22**
+- **KFENCE** – 9.0M
+- **Local vs remote** – Access within node ≈ 90 ns; cross-socket ≈ 150–200 ns
+- **Lynis** – Live Linux host
+- **madvise** – only if process calls madvise(..., MADV_HUGEPAGE)
+- **membind 0 + cpus 0** – **9.8 Mpps**
+- **Method** – **File 4 GB on NVMe → NVMe**
+- **Mitigation** – **Latency Cost**
+- **Monorepo** – Atomic commits across all vendors; one CI pipeline; easy code-owners
+- **never** – disable THP
+- **Node** – CPU sockets or NVDIMM region with its own memory controller
+- **nvmetcp + kTLS** – **275k**
+- **NVMeTCP + kTLS** – **7min 40s**
+- **OpenSCAP** – Image or host
+- **pandas-cli** – pandas some.csv --describe**.**
+- **petl** – SQL-like: python -m petl select table.csv --where "snr>30"
+- **PolicyController** – Gatekeeper/OPA enforcing sigstore policies in K8s
+- **PREEMPT_RT + noflush** – **3.8**
+- **PSI** – `/proc/pressure/{cpu,memory,io}` for per-resource stall stats
+- **Rekor** – Public appendonly log (transparency)
+- **Reserved** – `if`, `case`, `for`, `[[`
+- **Reset Cost** – avoid frequent **zone reset**
+- **Rollback** – Autorevert on >2% fail
+- **run-queue** – Per-CPU list of runnable tasks
+- **SC2034** – Unused variable
+- **SC2046** – Quote for wordsplitting in $(  )
+- **SC2086** – Unquoted var could expand to multiple words
+- **SC2164** – Missing `cd` error check
+- **Scenario** – uring_copy**GB/s**
+- **Scheduler** – **IOPS**
+- **SCX** – Scheduler Class eXternal (BPF scheduler)
+- **SEV** – EPYC 7xx2/7xx3
+- **SGID** – 2###
+- **SID** – Segment Identifier (IPv6 address)
+- **some** – time *some* tasks were stalled
+- **SQE** – Submission Queue Entry (opcode, fd, off, len)
+- **SRH** – Segment Routing Header
+- **Stage** – Copy firmware to /tmp
+- **Step** – **PSI cpu avg10**
+- **Sticky** – 1###
+- **Submodules** – Independent history per vendor; smaller clones
+- **SUID** – 4###
+- **Sysctl** – **Default**
+- **TDX** – Xeon Emerald Rapids
+- **Trivy** – Container image / filesystem
+- **Unified tree** – all controllers (cpu, io, memory) on one path
+- **uring_copy (QD = 256)** – direct I/O, no cache
+- **Verify** – SHA256 + GPG sign check
+- **vmstat key** – **Meaning**
+- **Webhook Gate** – Kyverno policy blocks Chaos CRDs during change-freeze
+- **Weight-based CPU & I/O** – no more juggling `cpu.shares` vs `cfs_quota_us`
+- **Write Pointer** – Current offset inside a zone; resets only with `zone reset`
+- **Writes to eMMC** – 1.1 %
+- **ZNS** – NVMe Zoned Namespace – host must write sequentially inside zones
