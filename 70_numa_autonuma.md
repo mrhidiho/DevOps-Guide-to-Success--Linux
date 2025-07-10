@@ -1,7 +1,4 @@
 
----
-
-```
 # Chapter 70 – AutoNUMA Balancing & `numactl --membind` for SR-IOV Paths
 
 On dual-socket EPYC or Xeon hosts, SR-IOV VFs mapped to one CPU socket
