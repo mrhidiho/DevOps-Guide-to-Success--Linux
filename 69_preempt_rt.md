@@ -1,7 +1,4 @@
 
----
-
-```
 # Chapter 69 – PREEMPT_RT & Adaptive L1D Flush Control
 
 Low-latency lab gear sometimes needs **≤ 50 µs jitter** while still running modern
