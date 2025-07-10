@@ -1,5 +1,4 @@
 
-```
 # Chapter 71 – BBR v3 Congestion Control with ECN++
 
 Firmware downloads to remote POPs or satellite hops (500 ms RTT) stall under
