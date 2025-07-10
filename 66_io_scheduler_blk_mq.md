@@ -1,5 +1,4 @@
 
-```
 # Chapter 66 – IO-Scheduler & blk-mq Tuning for NVMe / Zoned Namespace (ZNS)
 
 Firmware staging, log-harvest, and `uring_copy` (Chapter 62) all hammer block
