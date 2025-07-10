@@ -1,5 +1,5 @@
 
-```
+
 # Chapter 62 – io_uring & Async Bulk Copy
 
 Traditional `cp`/`rsync` copies issue **one read, one write, wait, repeat**.  
