@@ -1,5 +1,4 @@
 
-```
 # Chapter 68 – BPF `sched_ext` & Run-Queue Analysis
 
 When a 60 k pps VNF shares a CPU with Python telemetry, the default CFS
