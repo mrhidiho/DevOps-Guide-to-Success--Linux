@@ -17,7 +17,7 @@ _Last updated: 2025-07-10_
 graph LR
   A[Service] -- OTLP --> B[OpenTelemetry Collector]
   B -->|remote_write| C[Prometheus]
-  C --> D[RL Agent (ray)]
+  C --> D[RL Agent ray]
   D -->|API| E[Alertmanager]
 ```
 
