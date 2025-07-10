@@ -1,4 +1,21 @@
+# Chapter 54 – Chaos Mesh & Kubernetes-Native Fault Injection
 
+While Chapter 33 showed bash-level `tc netem` chaos, production VNFs often run
+inside Kubernetes. **Chaos Mesh** (CNCF) lets you declare pod kills, network
+latency, and node reboots as native CRDs—so resiliency tests become part of
+your GitOps pipeline.
+
+_Last updated: 2025-07-10_
+
+---
+
+## 54.1  Quick Install (Helm)
+
+```bash
+helm repo add chaos-mesh https://charts.chaos-mesh.org
+helm install chaos-mesh chaos-mesh/chaos-mesh \
+  --namespace chaos-testing --create-namespace \
+  --set dashboard.create=true
 ---
 
 ## **54.2**  **Pod Kill Example**
