@@ -1,5 +1,4 @@
 
-```
 # Chapter 63 – Transparent Huge Pages, Memory Compaction & `MADV_COLLAPSE`
 
 Large (2 MiB) pages cut TLB misses on packet-hungry VNFs, yet mis-tuned THP
