@@ -1,7 +1,5 @@
 
----
 
-```
 # Chapter 86 – NVMe-oF Boot & iPXE SAN Hook
 
 Booting edge switches and routers from a **central NVMe-over-TCP LUN** removes
