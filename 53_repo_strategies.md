@@ -1,5 +1,4 @@
 
-```
 # Chapter 53 – Multi-Repo Orchestration & Monorepo Strategies
 
 Managing thousands of device-specific configs plus firmware artifacts quickly
